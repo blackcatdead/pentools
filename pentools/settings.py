@@ -25,7 +25,7 @@ SECRET_KEY = 'm##h2eqy!fyg2_4v&!$crn&6vle2=(di)0td5a)&)4y66+z&na'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', 'tools.rikhsan.com', '178.128.110.195']
 
 
 # Application definition
